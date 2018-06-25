@@ -1,0 +1,123 @@
+html {
+    text-align: center;
+}
+
+body {
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/connectwork.png);
+    display: inline-block;
+    text-align: center;
+}
+
+#title {
+    width: 450px;
+    height: 30px;
+    background-color: orange;
+    padding: 25px;
+    margin: 25px;
+    margin-bottom: 0px;
+}
+
+#title h1 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+#instructions {
+    width: 450px;
+    height: 320px;
+    background-color: orange;
+    padding: 25px;
+    margin: 25px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 18px;
+}
+
+#instructions p {
+    color:white;
+    
+}
+
+#numberBox {
+    width: 195px;
+    height: 100px;
+    background-color: orange;
+    padding: 25px;
+    margin: 25px;
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+h1 #numberInBox {
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+#winLoss {
+    width: 195px;
+    height: 100px;
+    background-color: orange;
+    padding: 25px;
+    margin: 25px;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+#winLoss p {
+    font-size: 30px;
+    text-align: center;
+}
+
+#winLoss loss {
+    font-size: 30px;
+    text-align: center;
+}
+
+#winLoss win {
+    font-size: 30px;
+    text-align: center;
+}
+
+#gemBox {
+    width: 450px;
+    height: 50px;
+    background-color: orange;
+    padding: 25px;
+    margin: 25px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    clear: both
+}
+
+#gemBox img {
+    width: 100px;
+    height: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#scoreBox {
+    width: 450px;
+    height: 50px;
+    background-color: orange;
+    padding: 25px;
+    margin: 25px;
+    margin-top: 0px;
+}
+
+#scoreBox  h1 {
+    font-size: 20px;
+}
+
+p #score {
+    font-size: 20px;
+}
