@@ -1,5 +1,6 @@
 html {
     text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 body {
@@ -15,6 +16,9 @@ body {
     padding: 25px;
     margin: 25px;
     margin-bottom: 0px;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
 }
 
 #title h1 {
@@ -32,6 +36,9 @@ body {
     margin-top: 10px;
     margin-bottom: 0px;
     font-size: 18px;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
 }
 
 #instructions p {
@@ -40,7 +47,7 @@ body {
 }
 
 #numberBox {
-    width: 195px;
+    width: 192px;
     height: 100px;
     background-color: orange;
     padding: 25px;
@@ -50,6 +57,9 @@ body {
     margin-top: 10px;
     margin-bottom: 10px;
     float: left;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
 }
 
 h1 #numberInBox {
@@ -60,7 +70,7 @@ h1 #numberInBox {
 }
 
 #winLoss {
-    width: 195px;
+    width: 192px;
     height: 100px;
     background-color: orange;
     padding: 25px;
@@ -69,6 +79,9 @@ h1 #numberInBox {
     margin-left: 5px;
     margin-bottom: 10px;
     float: left;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
 }
 
 #winLoss p {
@@ -94,7 +107,10 @@ h1 #numberInBox {
     margin: 25px;
     margin-top: 0px;
     margin-bottom: 10px;
-    clear: both
+    clear: both;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
 }
 
 #gemBox img {
@@ -112,6 +128,9 @@ h1 #numberInBox {
     padding: 25px;
     margin: 25px;
     margin-top: 0px;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
 }
 
 #scoreBox  h1 {
